@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding:0;
+}
+html,body
+{   
+    height: 100%;
+    font-size: 16px;
+    font-family: "Lato",sans-serif;
+    font-weight:400;
+    line-height: 1.8em;
+    color: #666;
+}
+.topSection
+{
+    background-image: url(./images/developer.png);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+ height: 100%;
+ width: 100%;
+}
+.text1
+{   
+    position: absolute;
+    top:10%;
+    width:100%;
+    text-align: center;
+    color:black;
+    font-size:27px;
+    
+}
+.john
+{
+    font-size: 20px;
+}
+.Tt{
+    position: relative;
+    top: 20px;
+    text-transform: uppercase; 
+    font-weight: bold;
+    margin-left: 20px;
+    color:white;
+
+}
+.black
+{
+    width: 100%;
+    background-color: black;
+    
+    position: relative;
+}
+.text2
+{   
+    padding:50px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color:white;
+    text-align: center;
+    font-size:27px;
+}
